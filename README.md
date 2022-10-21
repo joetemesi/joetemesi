@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and mobile application development
 - 🌱 I’m currently learning about web develoment in HTML, CSS & Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on Email: joemunyendo@gmail.com
 
 <!---
 joetemesi/joetemesi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
