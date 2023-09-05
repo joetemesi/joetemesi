@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joetemesi
 - 👀 I’m interested in web and mobile application development
-- 🌱 I’m currently learning about web develoment in HTML, CSS & Javascript
+- 🌱 I’m currently learning about web develoment in HTML, CSS & JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on Email: joemunyendo@gmail.com
 
