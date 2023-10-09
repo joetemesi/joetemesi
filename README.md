@@ -1,8 +1,8 @@
 👋 Hi, I’m @joetemesi , a passionate developer with a keen interest in web and mobile application development.
 
-🌱 I’m currently learning about web application development in Node.js with Express, and I'm excited to build innovative projects in this domain.
-
 💡 I have experience working with technologies like JavaScript, CSS, Bootstrap and Git.
+
+🌱 I’m currently learning about web application development in Node.js with Express, and I'm excited to build and collaborate in innovative projects in this domain.
 
 📫 You can reach me via Email: joemunyendo@gmail.com, or connect with me on LinkedIn: https://www.linkedin.com/in/joseph-munyendo-temesi-7925911b6/ .
 
