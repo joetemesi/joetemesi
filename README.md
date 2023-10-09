@@ -4,7 +4,7 @@
 
 💡 I have experience working with technologies like JavaScript, CSS, Bootstrap and Git.
 
-📫 You can reach me via Email: joemunyendo@gmail.com, or connect with me on LinkedIn: in/joseph-munyendo-temesi-7925911b6.
+📫 You can reach me via Email: joemunyendo@gmail.com, or connect with me on LinkedIn: https://www.linkedin.com/in/joseph-munyendo-temesi-7925911b6/ .
 
 🌐 Check out my personal website: https://joetemesi.netlify.app/ to see some of my projects and learn more about me.
 
