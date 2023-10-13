@@ -8,7 +8,7 @@
 
 🌐 Check out my personal website: https://joetemesi.netlify.app/ to see some of my projects and learn more about me.
 
-🤝 I’m open to collaboration opportunities, so feel free to get in touch if you have an interesting project or idea to discuss.
+🤝 I’m open to collaboration opportunities, so feel free to get in touch if you have any project or idea to discuss.
 
 Happy coding! 👨‍💻
 
